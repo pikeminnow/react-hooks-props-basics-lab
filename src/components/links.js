@@ -6,6 +6,7 @@ function Links(props) {
     return (<div id="links">
         <h3>Links</h3>
         <a href={gitHub}>{gitHub}</a>
+        <br />
         <a href={linkedIn}>{linkedIn}</a>
     </div>
     );

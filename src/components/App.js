@@ -18,8 +18,7 @@ function App() {
         color={user.color}
       />
       <About
-        bio={user.bio} />
-      <Links
+        bio={user.bio}
         links={user.links} />
     </div>
   );
